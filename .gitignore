@@ -1,0 +1,11 @@
+dataset_images/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.DS_Store
+*.vscode/
+*.idea/
+*.pth
+models/

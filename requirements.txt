@@ -1,0 +1,10 @@
+requests
+fastapi
+uvicorn
+pydantic
+pillow
+torch
+torchvision
+numpy
+open_clip_torch
+sentence-transformers
